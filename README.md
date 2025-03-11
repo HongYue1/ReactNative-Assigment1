@@ -2,6 +2,12 @@
 
 ## Expo Compiler Link: https://snack.expo.dev/@skazka/todo-list
 
+## Video:
+
+https://github.com/user-attachments/assets/3d806746-a7dc-43b3-878f-750e5b184c8e
+
+
+
 **Project Report: React Native To-Do List Application**
 
 **Introduction:**
